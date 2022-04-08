@@ -1,0 +1,19 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+
+  "css.validate": false,
+  "files.associations": {
+    "*.scss": "postcss",
+    ".env.**": "dotenv"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+
+  "search.exclude": {
+    "yarn-error.log": true,
+    "yarn.lock": true
+  }
+}
